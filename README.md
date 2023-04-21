@@ -53,3 +53,21 @@ The planet has a solid, rocky surface that is composed of a mixture of continent
 Earth rotates on its axis once every 24 hours, creating day and night, and it orbits around the Sun once every 365.24 days, which defines a year. The tilt of the Earth's axis also causes the seasons to change throughout the year.
 
 Human civilization has thrived on Earth for thousands of years, and the planet remains the only known place in the universe where life exists. As such, Earth is a subject of intense scientific study, with a variety of disciplines, including geology, meteorology, biology, and astronomy, seeking to better understand the planet and the processes that make it habitable.
+			
+			
+			
+			
+			
+			
+			
+			Mars is the fourth planet from the Sun and is often referred to as the "Red Planet" because of its reddish appearance in the night sky. It is a terrestrial planet, meaning it has a rocky surface like Earth, but it is much colder and drier than our planet.
+
+Mars has a thin atmosphere made up mostly of carbon dioxide, with traces of nitrogen and argon. The planet is home to the largest volcano in the solar system, Olympus Mons, and the longest canyon, Valles Marineris. Its surface is also marked by impact craters, ancient riverbeds, and vast deserts.
+
+Mars has two small moons, Phobos and Deimos, which are thought to be captured asteroids. The planet's day and night cycle is similar to Earth's, with a day lasting just over 24 hours. However, Mars takes about 687 Earth days to orbit the Sun, making its year almost twice as long as Earth's.
+
+Mars has been a target of exploration for decades, with numerous missions launched by various space agencies. These missions have provided important insights into the planet's geology, atmosphere, and potential for life. Mars remains a subject of intense scientific study, with researchers seeking to better understand its past and present habitability, as well as its potential for future human exploration and colonization.
+			
+			
+			
+			

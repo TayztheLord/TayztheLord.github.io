@@ -5,7 +5,7 @@
 </head>
 <body>
 	<header>
-		<h1>Welcome to my website!</h1>
+		<h1>The Solar System</h1>
 		<nav>
 			<ul>
 				<li><a href="#">Home</a></li>

@@ -25,7 +25,6 @@ The Sun is a very active star, with a dynamic atmosphere that produces a variety
 Humans have long been fascinated by the Sun and its role in the solar system. Ancient civilizations worshipped the Sun as a deity, and modern science has provided us with a wealth of knowledge about this powerful and mysterious star.
 
 <body>
-	</header>
 	<main>
 		<section>
 		<h3>MERCURY<h3>
@@ -33,7 +32,6 @@ Humans have long been fascinated by the Sun and its role in the solar system. An
 		
 			
 <body>
-	</header>
 	<main>
 		<section>
 		<h4>VENUS<h4>		
@@ -43,7 +41,6 @@ Humans have long been fascinated by the Sun and its role in the solar system. An
 			
 		
 <body>
-	</header>
 	<main>
 		<section>
 		<h5>EARTH<h5>			
@@ -53,7 +50,6 @@ Humans have long been fascinated by the Sun and its role in the solar system. An
 			
 			
 <body>
-	</header>
 	<main>
 		<section>
 		<h6>MARS<h6>			
@@ -64,7 +60,6 @@ Humans have long been fascinated by the Sun and its role in the solar system. An
 
 
 <body>
-	</header>
 	<main>
 		<section>
 		<h7>ASTEROID BELT<h7>
@@ -75,7 +70,6 @@ Humans have long been fascinated by the Sun and its role in the solar system. An
 
 
 <body>
-	</header>
 	<main>
 		<section>
 		<h8>JUPITER<h8>
@@ -86,7 +80,6 @@ Humans have long been fascinated by the Sun and its role in the solar system. An
 
 
 <body>
-	</header>
 	<main>
 		<section>
 		<h8>SATURN<h8>
@@ -97,7 +90,6 @@ Humans have long been fascinated by the Sun and its role in the solar system. An
 
 
 <body>
-	</header>
 	<main>
 		<section>
 		<h9>URANUS<h9>
@@ -118,7 +110,6 @@ Uranus has only been visited by one spacecraft, NASA's Voyager 2, which flew by 
 
 
 <body>
-	</header>
 	<main>
 		<section>
 		<h10>NEPTUNE<h10>
@@ -130,7 +121,6 @@ Uranus has only been visited by one spacecraft, NASA's Voyager 2, which flew by 
 
 
 <body>
-	</header>
 	<main>
 		<section>
 		<h11>OORT CLOUD<h11>

@@ -53,7 +53,7 @@ Humans have long been fascinated by the Sun and its role in the solar system. An
 <body>
 	<main>
 		<section>
-		<h6>MARS<h6>			
+		<h5>MARS<h5>			
 	<p>Mars is the fourth planet from the Sun and is often referred to as the "Red Planet" because of its reddish appearance in the night sky. It is a terrestrial planet, meaning it has a rocky surface like Earth, but it is much colder and drier than our planet. Mars has a thin atmosphere made up mostly of carbon dioxide, with traces of nitrogen and argon. The planet is home to the largest volcano in the solar system, Olympus Mons, and the longest canyon, Valles Marineris. Its surface is also marked by impact craters, ancient riverbeds, and vast deserts. Mars has two small moons, Phobos and Deimos, which are thought to be captured asteroids. The planet's day and night cycle is similar to Earth's, with a day lasting just over 24 hours. However, Mars takes about 687 Earth days to orbit the Sun, making its year almost twice as long as Earth's. Mars has been a target of exploration for decades, with numerous missions launched by various space agencies. These missions have provided important insights into the planet's geology, atmosphere, and potential for life. Mars remains a subject of intense scientific study, with researchers seeking to better understand its past and present habitability, as well as its potential for future human exploration and colonization.<p>
 
 
@@ -63,7 +63,7 @@ Humans have long been fascinated by the Sun and its role in the solar system. An
 <body>
 	<main>
 		<section>
-		<h7>ASTEROID BELT<h7>
+		<h5>ASTEROID BELT<h5>
 	<p>The asteroid belt is a region of the solar system located between the orbits of Mars and Jupiter, where a large number of small, rocky objects called asteroids orbit the Sun. The asteroid belt is sometimes referred to as the main belt to distinguish it from other groups of asteroids that exist in different parts of the solar system. The asteroids in the belt vary in size, with the largest being Ceres, which is about 590 miles (940 kilometers) in diameter. Most of the asteroids in the belt, however, are much smaller, with diameters of less than 30 miles (50 kilometers). It is estimated that there are millions of asteroids in the asteroid belt, but the total mass of all the asteroids combined is only about 4% that of the Moon. The formation of the asteroid belt is believed to be the result of a disruption of the process by which planets are formed. According to this theory, Jupiter's strong gravity prevented the formation of a planet in the region between Mars and Jupiter, causing the leftover material to accumulate into a large number of small bodies instead. The asteroid belt is a subject of interest to scientists because it provides a window into the early history of the solar system. By studying the composition, structure, and distribution of asteroids, researchers can learn about the conditions that existed during the formation of the solar system and the processes that led to the creation of planets. The asteroid belt is also of interest for space exploration, as it is a potential source of resources such as water and minerals that could be used in future space missions.<p>
 
 
@@ -73,7 +73,7 @@ Humans have long been fascinated by the Sun and its role in the solar system. An
 <body>
 	<main>
 		<section>
-		<h8>JUPITER<h8>
+		<h5>JUPITER<h5>
 	<p>Jupiter is the fifth planet from the Sun and is the largest planet in the solar system. It is a gas giant, which means that it does not have a solid surface and is mostly composed of hydrogen and helium gas. Jupiter has a diameter of about 142,984 kilometers, which is more than 11 times larger than Earth's diameter. It is also more massive than all the other planets in the solar system combined, with a mass of about 318 times that of Earth. Jupiter has a very strong magnetic field, which is about 20,000 times stronger than Earth's magnetic field. The planet also has a large number of moons, with 79 known satellites as of 2021. The four largest moons, known as the Galilean moons, are Io, Europa, Ganymede, and Callisto, and they are some of the most geologically active and interesting moons in the solar system. Jupiter's atmosphere is dominated by swirling cloud bands and a giant red spot, which is a long-lasting storm that has been raging for centuries. The planet also has a faint ring system, which was discovered in 1979 by the Voyager 1 spacecraft. Jupiter's strong gravity has a significant impact on the solar system, and it is thought to have played a role in shaping the orbits of the other planets. The planet is also a subject of intense scientific study, with missions such as the Juno spacecraft providing new insights into its atmosphere, magnetic field, and interior structure.<p>
 
 
@@ -83,7 +83,7 @@ Humans have long been fascinated by the Sun and its role in the solar system. An
 <body>
 	<main>
 		<section>
-		<h8>SATURN<h8>
+		<h5>SATURN<h5>
 	<p>Saturn is the sixth planet from the sun and is the second-largest planet in the solar system, after Jupiter. It is a gas giant with a thick atmosphere made mostly of hydrogen and helium, and it has a prominent system of rings that are made up of millions of individual particles ranging in size from tiny dust grains to massive boulders. Saturn has a diameter of about 120,000 kilometers and rotates on its axis very rapidly, completing one rotation every 10.8 hours. Its average distance from the sun is about 1.4 billion kilometers, and it takes about 29.5 Earth years to complete one orbit around the sun. Saturn has more than 80 moons, including Titan, which is the second-largest moon in the solar system and the only moon known to have a thick atmosphere. The Cassini spacecraft, which orbited Saturn from 2004 to 2017, provided scientists with a wealth of information about the planet and its moons, including detailed images of the rings and the discovery of liquid oceans on several of Saturn's moons.<p>
 
 
@@ -93,7 +93,7 @@ Humans have long been fascinated by the Sun and its role in the solar system. An
 <body>
 	<main>
 		<section>
-		<h9>URANUS<h9>
+		<h5>URANUS<h5>
 	<p>Uranus is the seventh planet from the sun and the third-largest planet in the solar system. It is an ice giant, meaning that its atmosphere is primarily composed of water, methane, and ammonia ices rather than hydrogen and helium gas like Jupiter and Saturn.
 
 Uranus is about four times the diameter of Earth and rotates on its side, meaning that its poles are almost in the plane of its orbit. It takes about 17 Earth hours for Uranus to complete one rotation on its axis, and it takes about 84 Earth years for Uranus to complete one orbit around the sun.
@@ -113,7 +113,7 @@ Uranus has only been visited by one spacecraft, NASA's Voyager 2, which flew by 
 <body>
 	<main>
 		<section>
-		<h10>NEPTUNE<h10>
+		<h5>NEPTUNE<h5>
 	<p>Neptune is the eighth and farthest planet from the sun in the solar system, and the fourth-largest planet by diameter. It is also an ice giant, like Uranus, with an atmosphere primarily composed of hydrogen, helium, and methane. Neptune is about 17 times the mass of Earth and has a diameter of about 49,000 kilometers. It takes about 16 Earth hours for Neptune to complete one rotation on its axis, and it takes about 165 Earth years for Neptune to complete one orbit around the sun. Neptune has at least 14 known moons, the largest of which is Triton, which is believed to be a captured Kuiper Belt object. Triton is one of the coldest known objects in the solar system, with a surface temperature of about -235 degrees Celsius. Neptune also has a system of rings, which were discovered during a stellar occultation in 1984. The rings are much fainter and narrower than those of Saturn, and they are thought to be made up of dust particles and small rocks. Only one spacecraft has visited Neptune, NASA's Voyager 2, which flew by the planet in 1989. The spacecraft provided detailed images and data about the planet's atmosphere, moons, and rings, revealing new insights into this distant and enigmatic world.<p>
 
 
@@ -124,7 +124,7 @@ Uranus has only been visited by one spacecraft, NASA's Voyager 2, which flew by 
 <body>
 	<main>
 		<section>
-		<h11>OORT CLOUD<h11>
+		<h5>OORT CLOUD<h5>
 	<p>The Oort Cloud is a hypothetical cloud of icy objects that is believed to exist in the outermost reaches of the solar system, beyond the orbit of Neptune. The Oort Cloud is thought to be the source of most of the comets that enter the inner solar system. The Oort Cloud is named after the Dutch astronomer Jan Oort, who first proposed its existence in 1950. The cloud is believed to extend from about 2,000 astronomical units (AU) to 100,000 AU from the sun, or about 0.03 to 1.6 light-years away. The objects in the Oort Cloud are believed to be remnants from the early solar system, which were scattered to the outer reaches of the solar system by the gravitational influence of the giant planets. The cloud is thought to contain trillions of icy objects, ranging in size from small dust particles to large comets several kilometers in diameter. Due to its vast distance from the sun, the Oort Cloud has never been directly observed, and its existence is inferred from the orbits of long-period comets that originate from its region. The study of the Oort Cloud and its objects is an active area of research in astronomy and planetary science, as it provides important clues about the formation and evolution of the solar system.<p>
 
 

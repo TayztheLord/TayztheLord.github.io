@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-</head>
+
 <body>
 	<header>
 		<h1>The Solar System</h1>
@@ -18,23 +17,6 @@ The Sun is the largest object in the solar system and contains more than 99% of 
 The solar system also contains the Kuiper Belt, a region beyond Neptune that is home to dwarf planets such as Pluto, and the Oort Cloud, a hypothesized region of icy bodies that surrounds the solar system. The study of the solar system is an important area of astronomy, as it provides insights into the formation and evolution of planetary systems, as well as the search for extraterrestrial life...</p>
 		</section>
 		<section>
-			<h2>Contact me</h2>
-			<form>
-				<label for="name">Name:</label>
-				<input type="text" id="name" name="name"><br>
-
-				<label for="email">Email:</label>
-				<input type="email" id="email" name="email"><br>
-
-				<label for="message">Message:</label>
-				<textarea id="message" name="message"></textarea><br>
-
-				<input type="submit" value="Send">
-			</form>
-		</section>
-	</main>
-	<footer>
-		<p>&copy; 2023 My Website</p>
-	</footer>
+			
 </body>
 </html>

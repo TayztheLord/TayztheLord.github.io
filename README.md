@@ -19,9 +19,9 @@ The solar system also contains the Kuiper Belt, a region beyond Neptune that is 
 		<section>
 
 			
-		</header>
+	</header>
 	<main>
-		<section>	
+	        <section>	
 			<h2>Mercury</h2>
 			
 			<p>Mercury is the smallest planet in the solar system and the closest planet to the Sun, with an average distance of about 36 million miles (58 million kilometers). It is also the fastest planet in the solar system, completing an orbit around the Sun in just 88 Earth days.
@@ -33,9 +33,9 @@ Mercury has no atmosphere to speak of, which means it has extreme temperature va
 Because of its proximity to the Sun and lack of atmosphere, Mercury is a challenging planet to observe and explore. Only two spacecraft, Mariner 10 and Messenger, have visited the planet, with Messenger providing the most detailed data on the planet to date. However, despite its small size and challenging environment, Mercury remains an important object of study for scientists seeking to understand the formation and evolution of the solar system....</p>
 		
 			
-			</header>
+	</header>
 	<main>
-		<section>
+	        <section>
 			<h2>Venus</h2>
 			<p>Venus is the second planet from the Sun and is often referred to as Earth's "sister planet" due to their similar size, mass, and composition. Venus is the brightest object in the sky after the Sun and the Moon, and can often be seen in the early morning or evening.
 
@@ -45,9 +45,11 @@ Venus rotates very slowly, taking about 243 Earth days to complete one rotation 
 
 Numerous missions have been sent to Venus, including the Soviet Union's Venera series, which sent several landers to the planet in the 1970s and 1980s, and NASA's Magellan spacecraft, which mapped the planet's surface in the 1990s. Venus remains an important object of study for planetary scientists seeking to understand the evolution of terrestrial planets and the conditions necessary for life to arise....</p>
 			
-			</header>
+        
+			
+	</header>
 	<main>
-		<section>
+	        <section>
 			<h2>Earth</h2>
 			<p>Earth is the third planet from the Sun and is the largest of the four terrestrial planets in the solar system. It is the only known planet in the universe that supports life, making it a unique and precious place in the cosmos.
 

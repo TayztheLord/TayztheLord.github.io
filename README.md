@@ -25,8 +25,7 @@ The Sun is a very active star, with a dynamic atmosphere that produces a variety
 Humans have long been fascinated by the Sun and its role in the solar system. Ancient civilizations worshipped the Sun as a deity, and modern science has provided us with a wealth of knowledge about this powerful and mysterious star.
 
 <body>
-     
-       <main>
+ <main>
 		<section>
 		<h3>MERCURY<h3>
         <p>Mercury is the smallest planet in the solar system and the closest planet to the Sun, with an average distance of about 36 million miles (58 million kilometers). It is also the fastest planet in the solar system, completing an orbit around the Sun in just 88 Earth days. Mercury has a rocky, cratered surface that is heavily bombarded by meteoroids and is covered with a layer of fine dust. Its surface is also marked by cliffs, ridges, and impact craters, including the Caloris Basin, a large impact crater that is one of the largest features on the planet. Mercury has no atmosphere to speak of, which means it has extreme temperature variations. During the day, the surface temperature can reach up to 800 degrees Fahrenheit (427 degrees Celsius), while at night it can drop to -290 degrees Fahrenheit (-180 degrees Celsius). Because of its proximity to the Sun and lack of atmosphere, Mercury is a challenging planet to observe and explore. Only two spacecraft, Mariner 10 and Messenger, have visited the planet, with Messenger providing the most detailed data on the planet to date. However, despite its small size and challenging environment, Mercury remains an important object of study for scientists seeking to understand the formation and evolution of the solar system.<p>

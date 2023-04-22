@@ -130,7 +130,6 @@ Uranus has only been visited by one spacecraft, NASA's Voyager 2, which flew by 
 
 
 
-<p style="background-image: url('img_girl.jpg');">
 		In conclusion, the solar system is a fascinating and dynamic system of planets, moons, asteroids, and comets that has captivated the human imagination for centuries. From the massive gas giants of Jupiter and Saturn to the icy worlds of Uranus and Neptune, each planet and celestial body in the solar system has its own unique properties and characteristics that scientists are still working to understand. As our understanding of the solar system continues to evolve, so too do our theories and ideas about how it formed and how it will evolve in the future. With the advent of new space missions, advanced telescopes, and sophisticated computer models, we are sure to learn even more about our cosmic neighborhood in the years to come. While there is still much we don't know about the solar system, one thing is clear: it is a testament to the beauty and complexity of the universe we inhabit. By studying the solar system, we can gain valuable insights into our own planet and the forces that shape it, as well as the broader universe beyond. 
 
 
